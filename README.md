@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **khanrustam2809@gmail.com**
 
-- 📄 Know about my experiences [....RESUME....](https://drive.google.com/file/d/1IPAVvIfit41dbhfLB60U2x-Ca534pxLH/view?usp=sharing)
+- 📄 Know about my experiences [....RESUME....](https://drive.google.com/file/d/14sDb0CZnV20EramwjNq19JkafxFRENgy/view?usp=sharing)
 
 - ⚡ Fun fact **You are the ; to my statements, I am Incomplete with You.**
 
