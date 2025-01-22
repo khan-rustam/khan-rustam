@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rustam khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan-rustam&label=Profile%20views&color=0e75b6&style=flat" alt="khan-rustam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kh4n2809" target="_blank"><img src="https://img.shields.io/twitter/follow/kh4n2809?logo=twitter&style=for-the-badge" alt="kh4n2809" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack ( ADVANCE )**
 
 - 👨‍💻 All of my projects are available at [....PORTFOLIO....](https://rustam-khan-portfolio.vercel.app/)
 
-- 💬 Ask me about **MERN Stack & Web Development**
+- 💬 Ask me about **Full Stack Web Development**
 
-- 📫 How to reach me **khanrustam2809@gmail.com**
+- 📫 How to reach me **Rustam.khan28@outlook.com**
 
 - 📄 Know about my experiences [....RESUME....](https://drive.google.com/file/d/1V89CUsc9kpf8o8h9EppHM14I24ecEqBW/view?usp=sharing)
 
