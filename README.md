@@ -1,30 +1,38 @@
-<h1 align="center">Hi 👋, I'm Rustam khan</h1>
-<h3 align="center">A passionate Full Stack Web Developer!!</h3>
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khan-rustam&label=Profile%20views&color=0e75b6&style=flat" alt="khan-rustam" /> </p>
+I'm **Rustam Khan**, a developer. I love building impactful web applications and exploring innovative technologies. Let's create something amazing together!
 
-<p align="left"> <a href="https://twitter.com/kh4n2809" target="_blank"><img src="https://img.shields.io/twitter/follow/kh4n2809?logo=twitter&style=for-the-badge" alt="kh4n2809" /></a> </p>
+## About Me
 
+I’m Rustam Khan, a results-driven Full-Stack Web Developer with expertise in the MERN stack, Firebase, and modern UI frameworks like Tailwind CSS. With a strong foundation in crafting scalable, high-performance digital solutions across real estate, e-commerce, and educational platforms, I am dedicated to delivering intuitive and impactful user experiences. Passionate about leveraging emerging technologies and best practices, I thrive on transforming ideas into reality. Let’s collaborate to build something extraordinary!
 
-- 👨‍💻 All of my projects are available at [....PORTFOLIO....](https://rustam-khan-portfolio.vercel.app/)
+## Skills & Technologies
 
-- 💬 Ask me about **Full Stack Web Development**
+figma,html,css,tailwind,mongodb,express,react,nodejs,bootstrap,firebase,redux,materialui
 
-- 📫 How to reach me **Rustam.khan28@outlook.com**
+## Recent Activity
 
-- 📄 Know about my experiences [....RESUME....](https://drive.google.com/file/d/1V89CUsc9kpf8o8h9EppHM14I24ecEqBW/view?usp=sharing)
+- Pushed updates to [**auto360**](https://github.com/khan-rustam/auto360) for SEO improvements.
+- Created new features in [**sparkshift**](https://github.com/khan-rustam/sparkshift).
+- Updated the portfolio with new projects and skills.
+- Regular commits in various projects to enhance functionality.
 
-- ⚡ Fun fact **You are the ; to my statements, I am Incomplete with You.**
+## Top Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kh4n2809" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kh4n2809" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khan-rustam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khan-rustam" height="30" width="40" /></a>
-<a href="https://fb.com/rustam khan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rustam khan" height="30" width="40" /></a>
-<a href="https://instagram.com/____rustam.___" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____rustam.___" height="30" width="40" /></a>
-</p>
+- [**auto360**](https://github.com/khan-rustam/auto360) - An innovative automotive platform. ⭐ 0 | Language: TypeScript
+- [**sparkshift**](https://github.com/khan-rustam/sparkshift) - A project aimed at optimizing shifts. ⭐ 0 | Language: TypeScript
+- [**portfolio**](https://github.com/khan-rustam/portfolio) - My personal portfolio showcasing my skills. ⭐ 0 | Language: SCSS
+- [**imdb-next.js**](https://github.com/khan-rustam/imdb-next.js) - An IMDB clone built with Next.js. ⭐ 0 | Language: JavaScript
+- [**real-estate**](https://github.com/khan-rustam/real-estate) - A real estate application. ⭐ 0 | Language: JavaScript
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khan-rustam&show_icons=true&locale=en&layout=compact" alt="khan-rustam" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khan-rustam&show_icons=true&theme=radical)
+
+- **Public Repositories:** 18
+- **Followers:** 0
+- **Following:** 0
+
+## Connect with Me
+
+{"instagram":"https://www.instagram.com/____rustam.___","twitter":"https://twitter.com/KH4N2809","linkedin":"https://www.linkedin.com/in/khan-rustam/"}
